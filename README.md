@@ -1,8 +1,6 @@
-# Infinite Maze
-Minecraft Maze that is infinite long.
-Auto-Generated and has a small competition in it.
+# Math Craft
+**Render Math Expressions in Minecraft** (not really)
+![2022-06-07_00 24 03](https://user-images.githubusercontent.com/80107781/172259323-5cb2407a-016c-4eef-a23c-afe5e04d7951.png)
 
-:warning: **This is more about research how different maze generation algorithm's work** 
 
-## Algorithems
-* [ ] [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+more about interest, you need to make the expressions calculations in code
